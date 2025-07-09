@@ -1,7 +1,6 @@
 import argparse
 from core.cracker import crack_hashes
 
-
 def main():
     parser = argparse.ArgumentParser(description="HashCrackr - Uma simples ferramenta de quebra de hashes.")
     parser.add_argument('-f', '--file', help="Arquivo com hashs", required=True)
