@@ -1,7 +1,6 @@
 import argparse
 from core.cracker import crack_hashes
 
-print("Ta rodando")
 
 def main():
     parser = argparse.ArgumentParser(description="HashCrackr - Uma simples ferramenta de quebra de hashes.")
