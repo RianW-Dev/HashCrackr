@@ -1,7 +1,7 @@
 # 🧠 HashCrackr
 
 Ferramenta simples e direta pra quebrar hashes usando força bruta.  
-Feita em Python, sem firula, pra quem quer resultado.
+Feita em Python.
 
 ## ⚙️ Como funciona?
 
